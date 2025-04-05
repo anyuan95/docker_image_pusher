@@ -3,4 +3,5 @@
 # 支持指定架构 --platform=linux/arm64 xiaoyaliu/alist
 # mysql:8.0
 # percona/pmm-server:3
-minio/minio
+# minio/minio
+openarkcode/orchestrator:latest
