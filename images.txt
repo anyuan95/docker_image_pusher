@@ -4,4 +4,5 @@
 # mysql:8.0
 # percona/pmm-server:3
 # minio/minio
-openarkcode/orchestrator:latest
+# openarkcode/orchestrator:latest
+mcr.microsoft.com/devcontainers/java:1-8-bullseye
