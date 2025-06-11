@@ -1,12 +1,4 @@
 # 支持私库 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 # xhofe/alist:latest
 # 支持指定架构 --platform=linux/arm64 xiaoyaliu/alist
-mysql:8.0
-# percona/pmm-server:3
-minio/minio
-# openarkcode/orchestrator:latest
-mcr.microsoft.com/devcontainers/java:1-8-bullseye
-jeessy/ddns-go
-portainer/portainer-ce:2.25.1
-natfrp.com/launcher
-kong
+ubuntu:22.04
