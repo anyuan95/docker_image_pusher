@@ -3,3 +3,4 @@
 # 支持指定架构 --platform=linux/arm64 xiaoyaliu/alist
 # ubuntu:22.04
 kasmweb/core-alpine-320:1.17.0
+1panel/openresty:1.27.1.2-2-3-focal
